@@ -1,6 +1,6 @@
 # AI Poet
 
-This is a Streamlit web application that generates AI-generated poems based on user input. It uses the `2003achu/ai_poet` model from the Hugging Face Transformers library to generate poems.
+This is a Streamlit web application that generates AI-generated poems based on user input. It uses the  model from the Hugging Face Transformers library to generate poems.
 
 ## About
 
